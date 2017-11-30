@@ -10,9 +10,13 @@ A curated list of image and video processing using deep learning, inspired by [a
 
 ### 2017
 
+- **Deep Image Prior** (2017), D. Ulyanov et al., [[pdf]](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/11/deep_image_prior.pdf) [[code]](https://github.com/DmitryUlyanov/deep-image-prior)
+
+- **DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks** (2017), O. Kupyn et al., ArXiv [[pdf]](https://arxiv.org/pdf/1711.07064.pdf) [[code]](https://github.com/KupynOrest/DeblurGAN)
+
+- **One Network to Solve Them All — Solving Linear Inverse Problems using Deep Projection Models**,(2017), J.H. Rick Chang et al., ICCV [[pdf]](http://imagesci.ece.cmu.edu/files/paper/2017/OneNet_ICCV17.pdf)
 
 - **Solving ill-posed inverse problems using iterative deep neural network** (2017), O. Ozan and J. Adler, Inverse Problems [[pdf]](https://arxiv.org/pdf/1704.04058.pdf)
-
 
 - **Dirty Pixels: Optimizing Image Classification Architectures for Raw Sensor Data** (2017), S. Diamond [[pdf]](https://arxiv.org/pdf/1701.06487.pdf)
 
