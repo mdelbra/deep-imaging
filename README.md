@@ -32,8 +32,13 @@ A curated list of image and video processing using deep learning, inspired by [a
 
 - **Deep Convolutional Neural Network for Inverse Problems in Imaging** (2016), Kyong Hwan Jin et al., ArXiv [[pdf]](https://arxiv.org/pdf/1611.03679.pdf) 
 
+- **Non-local color image denoising with convolutional neural networks** (2016), S. Lefkimmiatis, CVPR [[pdf]](https://arxiv.org/pdf/1611.06757.pdf)
+
 
 ### 2015
 
+
+### 2012
+- **Image denoising: Can plain neural networks compete with BM3D?** (2012), H.C. Burger et al., CVPR [[pdf]](http://webdav.is.mpg.de/pixel/files/neural_denoising/paper.pdf)
 
 
