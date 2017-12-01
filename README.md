@@ -28,11 +28,19 @@ A curated list of image and video processing using deep learning, inspired by [a
 
 - **Deep convolutional framelets: A general deep learning for inverse problems** (2017),  J.C. Ye and  Y.S. Han [[pdf]](https://arxiv.org/pdf/1707.00372.pdf)
 
+- **Photo-realistic single image super-resolution using a generative adversarial network** (2017), C. Ledig et al., [[pdf]](https://arxiv.org/pdf/1609.04802.pdf)
+
+- **Image Super-Resolution via Deep Recursive Residual Network** (2017), Y. Tai et al., CVPR [[pdf]](http://cvlab.cse.msu.edu/pdfs/Tai_Yang_Liu_CVPR2017.pdf) [[code]](https://github.com/tyshiwo/DRRN_CVPR17)
+
+- **Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution** (2017), W.S. Lai et al.,  CVPR [[pdf]](https://arxiv.org/pdf/1704.03915.pdf)
+
 ### 2016
 
 - **Deep Convolutional Neural Network for Inverse Problems in Imaging** (2016), Kyong Hwan Jin et al., ArXiv [[pdf]](https://arxiv.org/pdf/1611.03679.pdf) 
 
 - **Non-local color image denoising with convolutional neural networks** (2016), S. Lefkimmiatis, CVPR [[pdf]](https://arxiv.org/pdf/1611.06757.pdf)
+
+
 
 
 ### 2015
