@@ -40,8 +40,7 @@ A curated list of image and video processing using deep learning, inspired by [a
 
 - **Non-local color image denoising with convolutional neural networks** (2016), S. Lefkimmiatis, CVPR [[pdf]](https://arxiv.org/pdf/1611.06757.pdf)
 
-
-
+- **A Neural Approach to Blind Motion Deblurring** (2016), A. Chakrabarti [[pdf]](https://arxiv.org/pdf/1603.04771v1.pdf)
 
 ### 2015
 
