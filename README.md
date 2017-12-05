@@ -44,7 +44,23 @@ A curated list of image and video processing using deep learning, inspired by [a
 
 - **A Neural Approach to Blind Motion Deblurring** (2016), A. Chakrabarti [[pdf]](https://arxiv.org/pdf/1603.04771v1.pdf)
 
+- **Accurate Image Super-Resolution Using Very Deep Convolutional Networks** (2016), J. Kim et al., CVPR [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.pdf)
+
+- **Image super-resolution using deep convolutional networks** (2016), C. Dong et al., PAMI [[pdf]](https://arxiv.org/pdf/1501.00092.pdf)
+
+
 ### 2015
+
+- **Deep networks for image super-resolution with sparse prior** (2015), Z. Wang et al., CVPR [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Wang_Deep_Networks_for_ICCV_2015_paper.pdf)
+
+
+### 2014
+
+- **Learning a Deep Convolutional Network for Image Super-Resolution** (2014)
+C. Dong et al., ECCV [[pdf]](http://ai2-s2-pdfs.s3.amazonaws.com/5763/c2c62463c61926c7e192dcc340c4691ee3aa.pdf)
+
+
+### 2013
 
 
 ### 2012
