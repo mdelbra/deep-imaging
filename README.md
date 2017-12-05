@@ -1,8 +1,7 @@
 # deep-imaging
 
-A curated list of image and video processing using deep learning, inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 
-## Background
+A not-really-curated list of image and video processing using deep learning, inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 
 
 * * *
@@ -58,9 +57,6 @@ A curated list of image and video processing using deep learning, inspired by [a
 
 - **Learning a Deep Convolutional Network for Image Super-Resolution** (2014)
 C. Dong et al., ECCV [[pdf]](http://ai2-s2-pdfs.s3.amazonaws.com/5763/c2c62463c61926c7e192dcc340c4691ee3aa.pdf)
-
-
-### 2013
 
 
 ### 2012
