@@ -10,6 +10,8 @@ A curated list of image and video processing using deep learning, inspired by [a
 
 ### 2017
 
+- **On-Demand Learning for Deep Image Restoration** (2017), R. Gao and K. Grauman, ICCV [[pdf]](https://arxiv.org/pdf/1612.01380.pdf) [[code]](https://github.com/rhgao/on-demand-learning)
+
 - **Deep Image Prior** (2017), D. Ulyanov et al., [[pdf]](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/11/deep_image_prior.pdf) [[code]](https://github.com/DmitryUlyanov/deep-image-prior)
 
 - **DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks** (2017), O. Kupyn et al., ArXiv [[pdf]](https://arxiv.org/pdf/1711.07064.pdf) [[code]](https://github.com/KupynOrest/DeblurGAN)
