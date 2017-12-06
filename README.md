@@ -27,6 +27,8 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 - **Image Restoration: From Sparse and Low-Rank Priors to Deep Priors** (2017), L. Zhang and W. Zuo 
 
+- **An inner-loop free solution to inverse problems using deep neural networks** (2017), K. Fai et al., NIPS [[pdf]](https://papers.nips.cc/paper/6831-an-inner-loop-free-solution-to-inverse-problems-using-deep-neural-networks.pdf)
+
 
 - **Deep convolutional framelets: A general deep learning for inverse problems** (2017),  J.C. Ye and  Y.S. Han [[pdf]](https://arxiv.org/pdf/1707.00372.pdf)
 
@@ -52,9 +54,15 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 - **Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring** (2016), S. Nah [[pdf]](https://arxiv.org/pdf/1612.02177.pdf) 
 
+- **Imageto-image translation with conditional adversarial networks** (2016), P. Isola et al., [[pdf]](https://arxiv.org/pdf/1611.07004.pdf)
+
+- **Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network** (2016), W. Shi et al., CVPR [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)
+
 ### 2015
 
 - **Deep networks for image super-resolution with sparse prior** (2015), Z. Wang et al., CVPR [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Wang_Deep_Networks_for_ICCV_2015_paper.pdf)
+
+- **Super-resolution with deep convolutional sufficient statistics** (2015), J. Bruna et al. [[pdf]](https://arxiv.org/pdf/1511.05666.pdf)
 
 
 ### 2014
