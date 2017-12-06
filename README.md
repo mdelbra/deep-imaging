@@ -8,6 +8,7 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 
 ### 2017
+- **InverseNet: Solving Inverse Problems with Splitting Networks** (2017), K. Fan et al., [[pdf]](https://arxiv.org/pdf/1712.00202.pdf)
 
 - **On-Demand Learning for Deep Image Restoration** (2017), R. Gao and K. Grauman, ICCV [[pdf]](https://arxiv.org/pdf/1612.01380.pdf) [[code]](https://github.com/rhgao/on-demand-learning)
 
@@ -35,6 +36,8 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 - **Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution** (2017), W.S. Lai et al.,  CVPR [[pdf]](https://arxiv.org/pdf/1704.03915.pdf)
 
+- **Motion Deblurring in the Wild** (2017), M. Noroozi et al., [[pdf]](https://arxiv.org/pdf/1701.01486.pdf)
+
 ### 2016
 
 - **Deep Convolutional Neural Network for Inverse Problems in Imaging** (2016), Kyong Hwan Jin et al., ArXiv [[pdf]](https://arxiv.org/pdf/1611.03679.pdf) 
@@ -47,6 +50,7 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 - **Image super-resolution using deep convolutional networks** (2016), C. Dong et al., PAMI [[pdf]](https://arxiv.org/pdf/1501.00092.pdf)
 
+- **Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring** (2016), S. Nah [[pdf]](https://arxiv.org/pdf/1612.02177.pdf) 
 
 ### 2015
 
