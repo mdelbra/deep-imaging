@@ -8,6 +8,9 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 
 ### 2017
+
+- **Burst Denoising with Kernel Prediction Networks** (2017), B. Mildenhall et al., [[pdf]](https://arxiv.org/pdf/1712.02327.pdf)
+
 - **InverseNet: Solving Inverse Problems with Splitting Networks** (2017), K. Fan et al., [[pdf]](https://arxiv.org/pdf/1712.00202.pdf)
 
 - **On-Demand Learning for Deep Image Restoration** (2017), R. Gao and K. Grauman, ICCV [[pdf]](https://arxiv.org/pdf/1612.01380.pdf) [[code]](https://github.com/rhgao/on-demand-learning)
