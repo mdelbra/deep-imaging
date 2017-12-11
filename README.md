@@ -84,6 +84,8 @@ Deep CNN for Image Denoising** (2016), K. Zhang et al., [[pdf]](https://arxiv.or
 - **Learning a Deep Convolutional Network for Image Super-Resolution** (2014)
 C. Dong et al., ECCV [[pdf]](http://ai2-s2-pdfs.s3.amazonaws.com/5763/c2c62463c61926c7e192dcc340c4691ee3aa.pdf)
 
+- **Deep network cascade for image super-resolution** (2014), Z. Cui et al., ECCV [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.679.9220&rep=rep1&type=pdf)
+
 
 ### 2012
 - **Image denoising: Can plain neural networks compete with BM3D?** (2012), H.C. Burger et al., CVPR [[pdf]](http://webdav.is.mpg.de/pixel/files/neural_denoising/paper.pdf)
