@@ -69,6 +69,9 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 - **Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network** (2016), W. Shi et al., CVPR [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)
 
+- **Beyond a Gaussian Denoiser: Residual Learning of
+Deep CNN for Image Denoising** (2016), K. Zhang et al., [[pdf]](https://arxiv.org/pdf/1608.03981.pdf)
+
 ### 2015
 
 - **Deep networks for image super-resolution with sparse prior** (2015), Z. Wang et al., CVPR [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Wang_Deep_Networks_for_ICCV_2015_paper.pdf)
