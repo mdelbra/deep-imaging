@@ -45,7 +45,7 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 - **Motion Deblurring in the Wild** (2017), M. Noroozi et al., [[pdf]](https://arxiv.org/pdf/1701.01486.pdf)
 
--**Video Frame Interpolation via Adaptive Convolution** (2017), S. Niklaus et al., ICCV [[pdf]](https://arxiv.org/pdf/1703.07514.pdf)
+- **Video Frame Interpolation via Adaptive Convolution** (2017), S. Niklaus et al., ICCV [[pdf]](https://arxiv.org/pdf/1703.07514.pdf)
 
 ### 2016
 
