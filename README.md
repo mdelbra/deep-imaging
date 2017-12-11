@@ -13,6 +13,8 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 - **InverseNet: Solving Inverse Problems with Splitting Networks** (2017), K. Fan et al., [[pdf]](https://arxiv.org/pdf/1712.00202.pdf)
 
+- **Frame Interpolation with Multi-Scale Deep Loss Functions and Generative Adversarial Networks** (2017), J. van Amersfoort et al., [[pdf]](https://arxiv.org/pdf/1711.06045.pdf)
+
 - **On-Demand Learning for Deep Image Restoration** (2017), R. Gao and K. Grauman, ICCV [[pdf]](https://arxiv.org/pdf/1612.01380.pdf) [[code]](https://github.com/rhgao/on-demand-learning)
 
 - **Deep Image Prior** (2017), D. Ulyanov et al., [[pdf]](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/11/deep_image_prior.pdf) [[code]](https://github.com/DmitryUlyanov/deep-image-prior)
@@ -42,6 +44,8 @@ A not-really-curated list of image and video processing using deep learning, ins
 - **Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution** (2017), W.S. Lai et al.,  CVPR [[pdf]](https://arxiv.org/pdf/1704.03915.pdf)
 
 - **Motion Deblurring in the Wild** (2017), M. Noroozi et al., [[pdf]](https://arxiv.org/pdf/1701.01486.pdf)
+
+-**Video Frame Interpolation via Adaptive Convolution** (2017), S. Niklaus et al., ICCV [[pdf]](https://arxiv.org/pdf/1703.07514.pdf)
 
 ### 2016
 
