@@ -86,6 +86,13 @@ C. Dong et al., ECCV [[pdf]](http://ai2-s2-pdfs.s3.amazonaws.com/5763/c2c62463c6
 
 - **Deep network cascade for image super-resolution** (2014), Z. Cui et al., ECCV [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.679.9220&rep=rep1&type=pdf)
 
+- **Deep convolutional neural network for image deconvolution** (2014), L. Xu et al., NIPS [[pdf]](http://papers.nips.cc/paper/5485-deep-convolutional-neural-network-for-image-deconvolution.pdf)
+
+- **Learning to deblur** (2014), C. Schuler et al., PAMI [[pdf]](https://arxiv.org/pdf/1406.7444.pdf)
+
+### 2013
+
+- **A machine learning approach for non-blind image deconvolution** (2013), C. Schuler et al., CVPR [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.378.7602&rep=rep1&type=pdf)
 
 ### 2012
 - **Image denoising: Can plain neural networks compete with BM3D?** (2012), H.C. Burger et al., CVPR [[pdf]](http://webdav.is.mpg.de/pixel/files/neural_denoising/paper.pdf)
