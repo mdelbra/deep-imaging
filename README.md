@@ -9,6 +9,8 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 ### 2017
 
+- **Deep Burst Denoising** (2017), C. Gordard et al. [[pdf]](https://arxiv.org/pdf/1712.05790.pdf)
+
 - **Motion Blur Kernel Estimation via Deep Learning** (2017), X. Xu, et al. TIP [[web]](https://sites.google.com/view/xiangyuxu/deepedge_tip)
 
 - **Burst Denoising with Kernel Prediction Networks** (2017), B. Mildenhall et al., [[pdf]](https://arxiv.org/pdf/1712.02327.pdf)
