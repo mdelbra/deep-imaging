@@ -55,6 +55,8 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 - **Video Frame Synthesis using Deep Voxel Flow** (2017) Z. Liu et al., [[pdf]](https://arxiv.org/pdf/1702.02463.pdf)
 
+- **Interactive reconstruction of monte carlo image sequences using a recurrent denoising autoencoder** (2017), C. Chaitanya, et al., TOG [[pdf]](http://research.nvidia.com/sites/default/files/publications/dnn_denoise_author.pdf)
+
 ### 2016
 
 - **Deep Convolutional Neural Network for Inverse Problems in Imaging** (2016), Kyong Hwan Jin et al., ArXiv [[pdf]](https://arxiv.org/pdf/1611.03679.pdf) 
@@ -95,6 +97,9 @@ C. Dong et al., ECCV [[pdf]](http://ai2-s2-pdfs.s3.amazonaws.com/5763/c2c62463c6
 - **Learning to deblur** (2014), C. Schuler et al., PAMI [[pdf]](https://arxiv.org/pdf/1406.7444.pdf)
 
 ### 2013
+
+- **Adaptive Multi-Column Deep Neural Networks
+with Application to Robust Image Denoising** (2013), F. Agostinelli et al., NIPS [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.407.6408&rep=rep1&type=pdf) 
 
 - **A machine learning approach for non-blind image deconvolution** (2013), C. Schuler et al., CVPR [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.378.7602&rep=rep1&type=pdf)
 
