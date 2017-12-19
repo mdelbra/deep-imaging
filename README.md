@@ -17,6 +17,8 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 - **InverseNet: Solving Inverse Problems with Splitting Networks** (2017), K. Fan et al., [[pdf]](https://arxiv.org/pdf/1712.00202.pdf)
 
+- **Learning Blind Motion Deblurring** (2017), P. Wieschollek et al. ArXiv [[pdf]](https://arxiv.org/pdf/1708.04208.pdf)
+
 - **Frame Interpolation with Multi-Scale Deep Loss Functions and Generative Adversarial Networks** (2017), J. van Amersfoort et al., [[pdf]](https://arxiv.org/pdf/1711.06045.pdf)
 
 - **Deep class aware denoising** (2017), T. Remez et al., ArXiv [[pdf]](https://arxiv.org/pdf/1701.01698.pdf)
