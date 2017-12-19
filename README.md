@@ -19,6 +19,8 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 - **Frame Interpolation with Multi-Scale Deep Loss Functions and Generative Adversarial Networks** (2017), J. van Amersfoort et al., [[pdf]](https://arxiv.org/pdf/1711.06045.pdf)
 
+- **Deep class aware denoising** (2017), T. Remez et al., ArXiv [[pdf]](https://arxiv.org/pdf/1701.01698.pdf)
+
 - **On-Demand Learning for Deep Image Restoration** (2017), R. Gao and K. Grauman, ICCV [[pdf]](https://arxiv.org/pdf/1612.01380.pdf) [[code]](https://github.com/rhgao/on-demand-learning)
 
 - **Deep Image Prior** (2017), D. Ulyanov et al., [[pdf]](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/11/deep_image_prior.pdf) [[code]](https://github.com/DmitryUlyanov/deep-image-prior)
