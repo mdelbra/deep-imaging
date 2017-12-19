@@ -59,6 +59,8 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 ### 2016
 
+- **Deep Joint Demosaicking and Denoising** (2016),  M. Gharbi et al., Siggraph Asia [[pdf]](https://groups.csail.mit.edu/graphics/demosaicnet/data/demosaic.pdf)
+
 - **Deep Convolutional Neural Network for Inverse Problems in Imaging** (2016), Kyong Hwan Jin et al., ArXiv [[pdf]](https://arxiv.org/pdf/1611.03679.pdf) 
 
 - **Non-local color image denoising with convolutional neural networks** (2016), S. Lefkimmiatis, CVPR [[pdf]](https://arxiv.org/pdf/1611.06757.pdf)
