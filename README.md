@@ -13,6 +13,9 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 - **Motion Blur Kernel Estimation via Deep Learning** (2017), X. Xu, et al. TIP [[web]](https://sites.google.com/view/xiangyuxu/deepedge_tip)
 
+- **Deep Video Deblurring for Hand-held cameras** (2017), S. Su et al., CVPR [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Su_Deep_Video_Deblurring_CVPR_2017_paper.pdf)
+
+
 - **Burst Denoising with Kernel Prediction Networks** (2017), B. Mildenhall et al., [[pdf]](https://arxiv.org/pdf/1712.02327.pdf)
 
 - **InverseNet: Solving Inverse Problems with Splitting Networks** (2017), K. Fan et al., [[pdf]](https://arxiv.org/pdf/1712.00202.pdf)
@@ -77,6 +80,8 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 - **Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring** (2016), S. Nah [[pdf]](https://arxiv.org/pdf/1612.02177.pdf) 
 
+- **Deep RNNs for video denoising** (2016), X. Chen et al., SPIE 
+
 - **Imageto-image translation with conditional adversarial networks** (2016), P. Isola et al., [[pdf]](https://arxiv.org/pdf/1611.07004.pdf)
 
 - **Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network** (2016), W. Shi et al., CVPR [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)
@@ -110,6 +115,9 @@ with Application to Robust Image Denoising** (2013), F. Agostinelli et al., NIPS
 - **A machine learning approach for non-blind image deconvolution** (2013), C. Schuler et al., CVPR [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.378.7602&rep=rep1&type=pdf)
 
 ### 2012
+
+- **Image denoising and inpainting with deep neural networks** (2012), J. Xie et al., NIPS [[pdf]](https://papers.nips.cc/paper/4686-image-denoising-and-inpainting-with-deep-neural-networks.pdf)
+
 - **Image denoising: Can plain neural networks compete with BM3D?** (2012), H.C. Burger et al., CVPR [[pdf]](http://webdav.is.mpg.de/pixel/files/neural_denoising/paper.pdf)
 
 
