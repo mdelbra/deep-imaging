@@ -93,6 +93,9 @@ Deep CNN for Image Denoising** (2016), K. Zhang et al., [[pdf]](https://arxiv.or
 
 ### 2015
 
+- **Learning a Convolutional Neural Network for Non-uniform
+Motion Blur Removal** (2015), J. Sun et al., CVPR [[pdf]](https://arxiv.org/pdf/1503.00593.pdf)
+
 - **Deep networks for image super-resolution with sparse prior** (2015), Z. Wang et al., CVPR [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Wang_Deep_Networks_for_ICCV_2015_paper.pdf)
 
 - **Super-resolution with deep convolutional sufficient statistics** (2015), J. Bruna et al. [[pdf]](https://arxiv.org/pdf/1511.05666.pdf)
