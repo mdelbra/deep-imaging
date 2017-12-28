@@ -18,6 +18,9 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 - **Burst Denoising with Kernel Prediction Networks** (2017), B. Mildenhall et al., [[pdf]](https://arxiv.org/pdf/1712.02327.pdf)
 
+- **Universal Denoising Networks: A Novel CNN-based Network Architecture
+for Image Denoising** (2017), S. Lefkimmiatis, ArXiv [[pdf]](https://arxiv.org/pdf/1711.07807.pdf)
+
 - **InverseNet: Solving Inverse Problems with Splitting Networks** (2017), K. Fan et al., [[pdf]](https://arxiv.org/pdf/1712.00202.pdf)
 
 - **Learning Blind Motion Deblurring** (2017), P. Wieschollek et al. ArXiv [[pdf]](https://arxiv.org/pdf/1708.04208.pdf)
