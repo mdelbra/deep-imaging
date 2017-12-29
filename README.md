@@ -91,8 +91,9 @@ for Image Denoising** (2017), S. Lefkimmiatis, ArXiv [[pdf]](https://arxiv.org/p
 
 - **Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network** (2016), W. Shi et al., CVPR [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)
 
-- **Beyond a Gaussian Denoiser: Residual Learning of
-Deep CNN for Image Denoising** (2016), K. Zhang et al., [[pdf]](https://arxiv.org/pdf/1608.03981.pdf)
+- **Image restoration using very deep convolutional encoder-decoder networks with symmetric skip connections** (2016), X. Mao et al., NIPS [[pdf]](http://papers.nips.cc/paper/6172-image-restoration-using-very-deep-convolutional-encoder-decoder-networks-with-symmetric-skip-connections.pdf)
+
+- **Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising** (2016), K. Zhang et al., [[pdf]](https://arxiv.org/pdf/1608.03981.pdf)
 
 ### 2015
 
