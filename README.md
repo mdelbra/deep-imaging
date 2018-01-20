@@ -6,6 +6,10 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 * * *
 
+### 2018
+
+- **Reblur2Deblur: Deblurring Videos via Self-Supervised Learning** (2018), H. Chen et al., ArXiv [[pdf]](https://arxiv.org/pdf/1801.05117.pdf)
+
 
 ### 2017
 
