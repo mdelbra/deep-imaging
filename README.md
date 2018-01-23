@@ -8,6 +8,8 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 ### 2018
 
+- **DeepISP: Learning End-to-End Image Processing Pipeline** (2018), E. Schwartz et al., ArXiv [[pdf]](https://arxiv.org/pdf/1801.06724.pdf)
+
 - **Reblur2Deblur: Deblurring Videos via Self-Supervised Learning** (2018), H. Chen et al., ArXiv [[pdf]](https://arxiv.org/pdf/1801.05117.pdf)
 
 - **Frame-Recurrent Video Super-Resolution** (2018), M. Sajjadi et al., ArXiv [[pdf]](https://arxiv.org/pdf/1801.04590.pdf)
