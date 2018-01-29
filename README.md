@@ -30,6 +30,9 @@ for Image Denoising** (2017), S. Lefkimmiatis, ArXiv [[pdf]](https://arxiv.org/p
 
 - **InverseNet: Solving Inverse Problems with Splitting Networks** (2017), K. Fan et al., [[pdf]](https://arxiv.org/pdf/1712.00202.pdf)
 
+
+- **EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis** (2017), M. Sajjadi et al., ArXiv [[pdf]](https://arxiv.org/pdf/1612.07919.pdf)
+
 - **Learning Blind Motion Deblurring** (2017), P. Wieschollek et al. ArXiv [[pdf]](https://arxiv.org/pdf/1708.04208.pdf)
 
 - **Online Video Deblurring via Dynamic Temporal Blending Network** (2017), T. H. Kim et al., ArXiv [[pdf]](https://arxiv.org/pdf/1704.03285.pdf)
