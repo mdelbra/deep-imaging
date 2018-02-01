@@ -8,6 +8,9 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 ### 2018
 
+- **Fast and Accurate Reconstruction of Compressed Color Light Field** (2018), 
+O. Nabati et al., ArXiv [[pdf]] (https://arxiv.org/pdf/1801.10351.pdf)
+
 - **DeepISP: Learning End-to-End Image Processing Pipeline** (2018), E. Schwartz et al., ArXiv [[pdf]](https://arxiv.org/pdf/1801.06724.pdf)
 
 - **Reblur2Deblur: Deblurring Videos via Self-Supervised Learning** (2018), H. Chen et al., ArXiv [[pdf]](https://arxiv.org/pdf/1801.05117.pdf)
@@ -29,6 +32,9 @@ A not-really-curated list of image and video processing using deep learning, ins
 for Image Denoising** (2017), S. Lefkimmiatis, ArXiv [[pdf]](https://arxiv.org/pdf/1711.07807.pdf)
 
 - **InverseNet: Solving Inverse Problems with Splitting Networks** (2017), K. Fan et al., [[pdf]](https://arxiv.org/pdf/1712.00202.pdf)
+
+
+- **Block-matching convolutional neural network for image denoising** (2017), B. Ahn, NI. Cho,  [[pdf]](https://arxiv.org/pdf/1704.00524.pdf)
 
 
 - **EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis** (2017), M. Sajjadi et al., ArXiv [[pdf]](https://arxiv.org/pdf/1612.07919.pdf)
