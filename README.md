@@ -9,7 +9,7 @@ A not-really-curated list of image and video processing using deep learning, ins
 ### 2018
 
 - **Fast and Accurate Reconstruction of Compressed Color Light Field** (2018), 
-O. Nabati et al., ArXiv [[pdf]] (https://arxiv.org/pdf/1801.10351.pdf)
+O. Nabati et al., ArXiv [[pdf]](https://arxiv.org/pdf/1801.10351.pdf)
 
 - **DeepISP: Learning End-to-End Image Processing Pipeline** (2018), E. Schwartz et al., ArXiv [[pdf]](https://arxiv.org/pdf/1801.06724.pdf)
 
