@@ -47,6 +47,8 @@ for Image Denoising** (2017), S. Lefkimmiatis, ArXiv [[pdf]](https://arxiv.org/p
 
 - **Deep class aware denoising** (2017), T. Remez et al., ArXiv [[pdf]](https://arxiv.org/pdf/1701.01698.pdf)
 
+- **Image Restoration using Autoencoding Priors** (2017), Bigdeli and Zwicker, ArXiv [[[pdf]](https://arxiv.org/pdf/1703.09964.pdf)
+
 - **On-Demand Learning for Deep Image Restoration** (2017), R. Gao and K. Grauman, ICCV [[pdf]](https://arxiv.org/pdf/1612.01380.pdf) [[code]](https://github.com/rhgao/on-demand-learning)
 
 - **Deep Image Prior** (2017), D. Ulyanov et al., [[pdf]](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/11/deep_image_prior.pdf) [[code]](https://github.com/DmitryUlyanov/deep-image-prior)
@@ -61,6 +63,7 @@ for Image Denoising** (2017), S. Lefkimmiatis, ArXiv [[pdf]](https://arxiv.org/p
 
 - **Deep Mean-Shift Priors for Image Restoration** (2017), S. Bigdeli et al. [[pdf]](https://cs.umd.edu/~zwicker/publications/DeepMeanShiftPriors-NIPS2017.pdf)
 
+- **Learning Deep CNN Denoiser Prior for Image Restoration** (2017), K. Zhang et al., CVPR [[pdf]](https://www4.comp.polyu.edu.hk/~cslzhang/paper/IRCNN_CVPR17.pdf)
 
 - **Image Restoration: From Sparse and Low-Rank Priors to Deep Priors** (2017), L. Zhang and W. Zuo 
 
@@ -76,6 +79,11 @@ for Image Denoising** (2017), S. Lefkimmiatis, ArXiv [[pdf]](https://arxiv.org/p
 - **Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution** (2017), W.S. Lai et al.,  CVPR [[pdf]](https://arxiv.org/pdf/1704.03915.pdf)
 
 - **Motion Deblurring in the Wild** (2017), M. Noroozi et al., [[pdf]](https://arxiv.org/pdf/1701.01486.pdf)
+
+- **Discriminative Transfer Learning for General Image Restoration** (2017), Xiao et al., ArXiv [[pdf]](https://arxiv.org/pdf/1703.09245.pdf)
+
+- **Learning Proximal Operators: Using Denoising Networks for Regularizing Inverse Imaging Problems** (2017), Meinhardt et al., ICCV, [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Meinhardt_Learning_Proximal_Operators_ICCV_2017_paper.pdf)
+
 
 - **Kernel-predicting convolutional networks for denoising Monte Carlo renderings** (2017), S. Bako et al., SIGGRAPH [[pdf]](http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2017_KPCN/PaperData/SIGGRAPH17_KPCN_LowRes.pdf)
 
