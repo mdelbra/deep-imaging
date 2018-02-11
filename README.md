@@ -10,7 +10,7 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 - **Scale-recurrent Network for Deep Image Deblurring** (2018), X. Tao et al., ArXiv [[pdf]](https://arxiv.org/pdf/1802.01770.pdf)
 
-- **Fast and Accurate Reconstruction of Compressed Color Light Field** (2018), 
+- **Fast and Accurate Reconstruction of Compressed Color Light Field** (2018),
 O. Nabati et al., ArXiv [[pdf]](https://arxiv.org/pdf/1801.10351.pdf)
 
 - **DeepISP: Learning End-to-End Image Processing Pipeline** (2018), E. Schwartz et al., ArXiv [[pdf]](https://arxiv.org/pdf/1801.06724.pdf)
@@ -39,7 +39,7 @@ for Image Denoising** (2017), S. Lefkimmiatis, ArXiv [[pdf]](https://arxiv.org/p
 - **Block-matching convolutional neural network for image denoising** (2017), B. Ahn, NI. Cho,  [[pdf]](https://arxiv.org/pdf/1704.00524.pdf)
 
 
-- **EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis** (2017), M. Sajjadi et al., ArXiv [[pdf]](https://arxiv.org/pdf/1612.07919.pdf)
+- **EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis** (2017), M. Sajjadi et al., ArXiv [[pdf]](https://arxiv.org/pdf/1612.07919.pdf) [[code]](https://github.com/shakeh3r/Enhancenet)
 
 - **Learning Blind Motion Deblurring** (2017), P. Wieschollek et al. ArXiv [[pdf]](https://arxiv.org/pdf/1708.04208.pdf)
 
@@ -65,9 +65,9 @@ for Image Denoising** (2017), S. Lefkimmiatis, ArXiv [[pdf]](https://arxiv.org/p
 
 - **Deep Mean-Shift Priors for Image Restoration** (2017), S. Bigdeli et al. [[pdf]](https://cs.umd.edu/~zwicker/publications/DeepMeanShiftPriors-NIPS2017.pdf)
 
-- **Learning Deep CNN Denoiser Prior for Image Restoration** (2017), K. Zhang et al., CVPR [[pdf]](https://www4.comp.polyu.edu.hk/~cslzhang/paper/IRCNN_CVPR17.pdf)
+- **Learning Deep CNN Denoiser Prior for Image Restoration** (2017), K. Zhang et al., CVPR [[pdf]](https://www4.comp.polyu.edu.hk/~cslzhang/paper/IRCNN_CVPR17.pdf) [[code]](https://github.com/cszn/IRCNN)
 
-- **Image Restoration: From Sparse and Low-Rank Priors to Deep Priors** (2017), L. Zhang and W. Zuo 
+- **Image Restoration: From Sparse and Low-Rank Priors to Deep Priors** (2017), L. Zhang and W. Zuo
 
 - **An inner-loop free solution to inverse problems using deep neural networks** (2017), K. Fai et al., NIPS [[pdf]](https://papers.nips.cc/paper/6831-an-inner-loop-free-solution-to-inverse-problems-using-deep-neural-networks.pdf)
 
@@ -99,7 +99,7 @@ for Image Denoising** (2017), S. Lefkimmiatis, ArXiv [[pdf]](https://arxiv.org/p
 
 - **Deep Joint Demosaicking and Denoising** (2016),  M. Gharbi et al., Siggraph Asia [[pdf]](https://groups.csail.mit.edu/graphics/demosaicnet/data/demosaic.pdf)
 
-- **Deep Convolutional Neural Network for Inverse Problems in Imaging** (2016), Kyong Hwan Jin et al., ArXiv [[pdf]](https://arxiv.org/pdf/1611.03679.pdf) 
+- **Deep Convolutional Neural Network for Inverse Problems in Imaging** (2016), Kyong Hwan Jin et al., ArXiv [[pdf]](https://arxiv.org/pdf/1611.03679.pdf)
 
 - **Non-local color image denoising with convolutional neural networks** (2016), S. Lefkimmiatis, CVPR [[pdf]](https://arxiv.org/pdf/1611.06757.pdf)
 
@@ -109,9 +109,9 @@ for Image Denoising** (2017), S. Lefkimmiatis, ArXiv [[pdf]](https://arxiv.org/p
 
 - **Image super-resolution using deep convolutional networks** (2016), C. Dong et al., PAMI [[pdf]](https://arxiv.org/pdf/1501.00092.pdf)
 
-- **Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring** (2016), S. Nah [[pdf]](https://arxiv.org/pdf/1612.02177.pdf) 
+- **Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring** (2016), S. Nah [[pdf]](https://arxiv.org/pdf/1612.02177.pdf)
 
-- **Deep RNNs for video denoising** (2016), X. Chen et al., SPIE 
+- **Deep RNNs for video denoising** (2016), X. Chen et al., SPIE
 
 - **Imageto-image translation with conditional adversarial networks** (2016), P. Isola et al., [[pdf]](https://arxiv.org/pdf/1611.07004.pdf)
 
@@ -119,7 +119,7 @@ for Image Denoising** (2017), S. Lefkimmiatis, ArXiv [[pdf]](https://arxiv.org/p
 
 - **Image restoration using very deep convolutional encoder-decoder networks with symmetric skip connections** (2016), X. Mao et al., NIPS [[pdf]](http://papers.nips.cc/paper/6172-image-restoration-using-very-deep-convolutional-encoder-decoder-networks-with-symmetric-skip-connections.pdf)
 
-- **Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising** (2016), K. Zhang et al., [[pdf]](https://arxiv.org/pdf/1608.03981.pdf)
+- **Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising** (2016), K. Zhang et al., [[pdf]](https://arxiv.org/pdf/1608.03981.pdf) [[code (Matlab)]](https://github.com/cszn/DnCNN) [[code (Python)]](https://github.com/crisb-DUT/DnCNN-tensorflow)
 
 ### 2015
 
@@ -145,7 +145,7 @@ C. Dong et al., ECCV [[pdf]](http://ai2-s2-pdfs.s3.amazonaws.com/5763/c2c62463c6
 ### 2013
 
 - **Adaptive Multi-Column Deep Neural Networks
-with Application to Robust Image Denoising** (2013), F. Agostinelli et al., NIPS [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.407.6408&rep=rep1&type=pdf) 
+with Application to Robust Image Denoising** (2013), F. Agostinelli et al., NIPS [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.407.6408&rep=rep1&type=pdf)
 
 - **A machine learning approach for non-blind image deconvolution** (2013), C. Schuler et al., CVPR [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.378.7602&rep=rep1&type=pdf)
 
