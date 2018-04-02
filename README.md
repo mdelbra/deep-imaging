@@ -8,6 +8,17 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 ### 2018
 
+- **Deep Semantic Face Deblurring** (2018), Z. Shen et al., ArXiv [[pdf]](https://arxiv.org/pdf/1803.03345.pdf) [[web]](https://sites.google.com/site/ziyishenmi/cvpr18_face_deblur)
+
+- **Learning to Maintain Natural Image Statistics** (2018), R. Mechrez et al., ArXiv [[pdf]](https://arxiv.org/pdf/1803.04626.pdf)
+
+- **Deep Image Demosaicking using a Cascade of Convolutional Residual Denoising Networks** (2018), F. Kokkinos, S. Lefkimmiatis, [[pdf]](https://arxiv.org/pdf/1803.05215.pdf)
+
+- **Fast, Accurate, and, Lightweight Super-Resolution with Cascading Residual Network** (2018), N. Ahn et al., ArXiv  [[pdf]](https://arxiv.org/pdf/1803.08664.pdf)
+
+- **Fast and Accurate Single Image Super-Resolution via Information Distillation
+Network** (2018), Z. Hui et al., ArXiv [[pdf]](https://arxiv.org/pdf/1803.09454.pdf) [[code]](https://github.com/Zheng222/IDN-Caffe)
+
 - **Scale-recurrent Network for Deep Image Deblurring** (2018), X. Tao et al., ArXiv [[pdf]](https://arxiv.org/pdf/1802.01770.pdf)
 
 - **Fast and Accurate Reconstruction of Compressed Color Light Field** (2018),
