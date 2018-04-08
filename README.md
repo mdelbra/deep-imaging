@@ -8,6 +8,8 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 ### 2018
 
+- **Adversarial Spatio-Temporal Learning for Video Deblurring** (2018), K. Zhang et al., ArXiv [[pdf]](https://arxiv.org/pdf/1804.00533.pdf)
+
 - **Deep Semantic Face Deblurring** (2018), Z. Shen et al., ArXiv [[pdf]](https://arxiv.org/pdf/1803.03345.pdf) [[web]](https://sites.google.com/site/ziyishenmi/cvpr18_face_deblur)
 
 - **Learning to Maintain Natural Image Statistics** (2018), R. Mechrez et al., ArXiv [[pdf]](https://arxiv.org/pdf/1803.04626.pdf)
