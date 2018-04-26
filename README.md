@@ -8,6 +8,8 @@ A not-really-curated list of image and video processing using deep learning, ins
 
 ### 2018
 
+- **Crafting a Toolchain for Image Restoration by Deep Reinforcement Learning** (2018), K. Yu et al., ArXiv [[pdf]](https://arxiv.org/pdf/1804.03312.pdf)
+
 - **Adversarial Spatio-Temporal Learning for Video Deblurring** (2018), K. Zhang et al., ArXiv [[pdf]](https://arxiv.org/pdf/1804.00533.pdf)
 
 - **Deep Semantic Face Deblurring** (2018), Z. Shen et al., ArXiv [[pdf]](https://arxiv.org/pdf/1803.03345.pdf) [[web]](https://sites.google.com/site/ziyishenmi/cvpr18_face_deblur)
@@ -33,6 +35,10 @@ O. Nabati et al., ArXiv [[pdf]](https://arxiv.org/pdf/1801.10351.pdf)
 - **Frame-Recurrent Video Super-Resolution** (2018), M. Sajjadi et al., ArXiv [[pdf]](https://arxiv.org/pdf/1801.04590.pdf)
 
 ### 2017
+
+
+- **Learning a Single Convolutional Super-Resolution Network for Multiple Degradations** (2017), K. Zhang, et al. [[pdf]](https://arxiv.org/pdf/1712.06116.pdf)
+
 
 - **Deep Burst Denoising** (2017), C. Gordard et al. [[pdf]](https://arxiv.org/pdf/1712.05790.pdf)
 
